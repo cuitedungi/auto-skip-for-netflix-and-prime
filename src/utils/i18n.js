@@ -135,9 +135,9 @@ export const i18nMap = {
     skip_recap: "略過前集提要",
   },
   ko_KR: {
-    skip_intro: "소개 건너뛰기",
-    next_epi: "다음 영상",
-    skip_recap: "요약 건너뛰기",
+    skip_intro: "오프닝 건너뛰기",
+    next_epi: "다음 화",
+    skip_recap: "줄거리 건너뛰기",
   },
   ja_JP: {
     skip_intro: "紹介をスキップ",
